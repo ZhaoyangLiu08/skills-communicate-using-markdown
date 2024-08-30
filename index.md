@@ -13,3 +13,7 @@ second = 2
 sum = first + second
 print('SUM', sum)
 ```
+
+- [ ] step 1
+- [ ] step 2
+- [ ] step 3
